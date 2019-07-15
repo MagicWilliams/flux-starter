@@ -19,6 +19,4 @@ fields:
   hidden: true
   label: Toggle thats on by default
 pages:
-- spalding.md
-- gmc.md
-- coca-cola.md
+- src/pages/bose.md
