@@ -18,3 +18,5 @@ fields:
   type: boolean
   hidden: true
   label: Toggle thats on by default
+pages:
+- coca-cola.md
