@@ -19,4 +19,5 @@ fields:
   hidden: true
   label: Toggle thats on by default
 pages:
+- gmc.md
 - coca-cola.md
