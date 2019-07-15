@@ -1,4 +1,20 @@
 ---
 label: Company Profile
 hide_body: false
-fields: []
+fields:
+- name: company_name
+  type: text
+  config:
+    required: false
+  label: Company Name
+  description: Name of company or organization
+- name: headquarter_location
+  type: text
+  config:
+    required: false
+  label: Location
+  description: Location of headquarters
+- name: toggle_thats_on_by_default
+  type: boolean
+  hidden: true
+  label: Toggle thats on by default
